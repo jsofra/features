@@ -1,6 +1,6 @@
 (ns meridian.features
-  (:require [meridian.flatland :as fl]
-            [meridian.flatland.protocols :as flp]
+  (:require [meridian.shapes :as ms]
+            [meridian.shapes.protocols :as msp]
             [meridian.georeference :as r]
             [meridian.georeference.protocols :as rp]))
 
